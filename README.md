@@ -12,7 +12,7 @@ Parrot Attack is a remake of a long-lost high school script. It is designed to p
    * It spawns a separate process for each core.
    * Each process launches multiple threads.
 
-2. **Threads managment:**
+2. **Threads Managment:**
 
    * Each thread spawns a cmd that runs `curl parrot.live`.
    * The cmd is moved randomly across the screen in a jittery fashion.
@@ -47,13 +47,13 @@ Make sure you have `curl` available in the system path.
 
 ## Why?
 
-Cause an ascii dancing parrot is cool and im annoying. :)
+Cause an ascii dancing parrot is cool and im annoying :)
 
 ---
 
 ## Author Notes
 
-This project was built mostly for laughs, nostalgia, and crashing kidron's pc
+This project was built mostly for laughs, nostalgia, and crashing [kidron's](https://github.com/ohadki12) pc
 
 ---
 
