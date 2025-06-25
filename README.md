@@ -53,7 +53,7 @@ Cause an ascii dancing parrot is cool and im annoying :)
 
 ## Author Notes
 
-This project was built mostly for laughs, nostalgia, and crashing [kidron's](https://github.com/ohadki12) pc
+This project was built mostly for laughs, nostalgia, and crashing [Shahar's](https://github.com/shaharbaror) pc
 
 ---
 
